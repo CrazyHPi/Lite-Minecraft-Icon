@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "minVersion": "0.7",
+    "package": "xyz.crazyh.liteminecrafticon.mixin",
+    "refmap": "mixins.liteminecrafticon.refmap.json",
+    "mixins": [
+        "MixinMinecraft"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
